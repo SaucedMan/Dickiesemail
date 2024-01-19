@@ -1,0 +1,17 @@
+<mj-raw>
+    <!--Social Icons-->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-social padding="0" icon-size="22px" mode="horizontal">
+          <mj-social-element padding="0 25px 25px" alt="facebook" href="https://www.facebook.com/dickies/" target="_blank" src="https://i.postimg.cc/W19mnV7t/Fb-logo.png">
+          </mj-social-element>
+          <mj-social-element padding="0 25px 25px" alt="instagram" href="https://www.instagram.com/dickies/" target="_blank"  src="https://i.postimg.cc/FzQ0RHhC/Instagram-Logo.png">
+          </mj-social-element>
+          <mj-social-element padding="0 25px 25px" alt="twitter" href="https://twitter.com/dickies?lang=en" target="_blank"  src="https://i.postimg.cc/0jxJvXCL/Twitter-Logo.png">
+          </mj-social-element>
+          <mj-social-element padding="0 25px 25px" alt="pinterest" href="https://www.pinterest.com/Dickies/" target="_blank"  src="https://i.postimg.cc/QM2T4dKN/Pinterest-Logo.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>

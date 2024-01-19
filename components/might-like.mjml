@@ -1,0 +1,30 @@
+<mj-raw>
+    <!--Migh Like Items-->
+    </mj-raw>
+      <mj-section padding="10px 2px">
+        <mj-column css-class="clothing-items" width="148px" padding-top="20px">
+          <mj-image padding="0px" href="https://www.dickies.com/30%25-off-sale/cuffed-knit-beanie/WH201ZBK+AL.html?bc_pid=V0gyMDFaQktBTA%3D%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw6500741506719744" target="_blank"
+          src="https://i.postimg.cc/wMcLsYvq/Cuffed-knit-beanie.jpg" width="127px" />
+          <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Cuffed Knit Beanie</mj-text>
+          <mj-text padding="20px 3px 0 14px" font-size="10px">$19.99</mj-text>
+          </mj-text>
+        </mj-column>
+        <mj-column css-class="clothing-items" width="148px" padding-top="20px">
+          <mj-image padding="0px" href="https://www.dickies.com/work-shirts/short-sleeve-work-shirt/1574BK+++L.html?bc_pid=MTU3NEJLTA%3D%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw6500741506719744" target="_blank"
+          src="https://i.postimg.cc/0jfKyGWr/Short-sleeve-workshirt.jpg" width="127px" />
+          <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Short Sleeve Workshirt</mj-text>
+          <mj-text padding="20px 3px 0 14px" font-size="10px">$24.99</mj-text>
+        </mj-column>
+        <mj-column css-class="clothing-items" width="148px" padding-top="20px">
+          <mj-image padding="0px" href="https://www.dickies.com/socks/moisture-control-crew-work-socks-size-6-12-6-pack/11750BK++AL.html?bc_pid=MTE3NTBCS0FM&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw6500741506719744" target="_blank"
+          src="https://i.postimg.cc/GmSYDQcy/Moisture-control-work-socks.jpg" width="127px" />
+          <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Moisture Control Crew Work Socks, Size 6-12, ...</mj-text>
+          <mj-text padding="5px 3px 0 14px" font-size="10px">$16.99</mj-text>
+        </mj-column>
+        <mj-column css-class="clothing-items" width="148px" padding-top="20px">
+          <mj-image padding="0px" href="https://www.dickies.com/30%25-off-sale/corduroy-cap/WHR55CB++AL.html?bc_pid=V0hSNTVDQkFM&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw6500741506719744" target="_blank"
+          src="https://i.postimg.cc/vHtt4fgr/Cordury-Cap.jpg" width="127px" />
+          <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Corduroy Cap</mj-text>
+          <mj-text padding="20px 3px 0 14px" font-size="10px">$29.99</mj-text>
+        </mj-column>
+      </mj-section>

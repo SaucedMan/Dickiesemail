@@ -1,0 +1,29 @@
+<mj-raw>
+<!--2nd set of four products-->
+</mj-raw>
+<mj-section>
+      <mj-column css-class="clothing-items" width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/cargo-shorts/flex-relaxed-fit-cargo-shorts-13/WR557.html?bc_pid=V1I1NTc%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank"
+        src="https://i.postimg.cc/bvsxV56g/Flex-Relaxed-Fit-cargo-shorts.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">FLEX Relaxed Fit Cargo Shorts, 13"</mj-text>
+        <mj-text padding="5px 3px 0 14px" font-size="10px">$29.99</mj-text>
+      </mj-column>
+      <mj-column css-class="clothing-items"  width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/coats-jackets/insulated-eisenhower-jacket/TJ15.html?bc_pid=VEoxNQ%3D%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank" 
+        src="https://i.postimg.cc/CLSjp5Pz/Insulated-Eisenhower-jacket.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Insulated Eisenhower Jacket</mj-text>
+        <mj-text padding="20px 3px 0 14px" font-size="10px">$69.99</mj-text>
+      </mj-column>
+      <mj-column css-class="clothing-items"  width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/work-shorts/loose-fit-multi-use-pocket-work-shorts-15/41283.html?bc_pid=NDEyODM%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank" 
+        src="https://i.postimg.cc/zGfK3M1N/Loose-Fit-multi-use-pocket-shorts.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Loose Fit Multi-Use Pocket Work Shorts, 15"</mj-text>
+        <mj-text padding="5px 3px 0 14px" font-size="10px">$29.99</mj-text>
+      </mj-column>
+      <mj-column css-class="clothing-items"  width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/work-shorts/flex-cooling-active-waist-regular-fit-shorts-13/WR670.html?bc_pid=V1I2NzA%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank" 
+        src="https://i.postimg.cc/d1C8wycT/Flex-cooling-Active-waist-Regular-Fit-Shorts.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">FLEX Cooling Active Waist Regular Fit Shorts,...</mj-text>
+        <mj-text padding="5px 3px 0 14px" font-size="10px">$34.99</mj-text>
+      </mj-column>
+    </mj-section>

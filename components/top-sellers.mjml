@@ -1,0 +1,30 @@
+    <mj-raw>
+    <!--Top Seller Items-->
+    </mj-raw>
+    <mj-section padding="10px 2px">
+      <mj-column css-class="clothing-items" width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/work-shorts/loose-fit-flat-front-work-shorts-13/42283.html?bc_pid=NDIyODM%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank"
+        src="https://i.postimg.cc/MK516wNt/Loose-fit-flat-front-shorts.jpg" width="127px" />
+        <mj-text css-class="item-info" padding="0 3px 0 14px" line-height="15px" font-size="10px">Loose Fit Flat Front Work Shorts, 13"</mj-text>
+        <mj-text css-class="item-info" padding="5px 3px 0 14px" font-size="10px">24.99</mj-text>
+      </mj-column>
+      <mj-column css-class="clothing-items"  width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/work-shorts/relaxed-fit-multi-use-pocket-work-shorts-13/WR640.html?bc_pid=V1I2NDA%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank"
+        src="https://i.postimg.cc/0Q7JL17Y/Relaxed-Fit-Multi-Use-pocket-shorts.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Relaxed Fit Multi-Use Pocket Work Shorts, 13"</mj-text>
+        <mj-text padding="5px 3px 0 14px" font-size="10px">$24.99</mj-text>
+      </mj-column>
+      <mj-column css-class="clothing-items "  width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/cargo-shorts/loose-fit-work-shorts-13/43214.html?bc_pid=NDMyMTQ%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank"
+        src="https://i.postimg.cc/5tYzSC0k/Loose-fit-work-shorts.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Loose Fit Work Shorts, 13"</mj-text>
+        <mj-text padding="20px 3px 0 14px" font-size="10px">$24.99</mj-text>
+      </mj-column>
+      <mj-column css-class="clothing-items"  width="148px" padding-top="20px">
+        <mj-image padding="0px" href="https://www.dickies.com/double-knee-pants/loose-fit-double-knee-work-pants/85283.html?bc_pid=ODUyODM%3D&utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128lw5937791553298432" target="_blank"
+        src="https://i.postimg.cc/tRhhcWzK/Loose-Fit-double-knee-pants.jpg" width="127px" />
+        <mj-text padding="0 3px 0 14px" line-height="15px" font-size="10px">Loose Fit Double Knee Work Pants</mj-text>
+        <mj-text padding="5px 3px 0 14px" font-size="10px">$34.99</mj-text>
+      </mj-column>
+    </mj-section>
+    

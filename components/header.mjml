@@ -1,0 +1,10 @@
+<mj-raw>
+    <!--Header-->
+    </mj-raw>
+      <mj-section css-class="header">
+        <mj-column>
+          <mj-text align="center" color="#ffffff" padding="0" font-weight="bold" font-size="19px">
+            FREE SHIPPING ON ALL ORDERS
+          </mj-text>
+        </mj-column>
+      </mj-seciton>

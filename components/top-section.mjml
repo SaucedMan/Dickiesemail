@@ -1,0 +1,27 @@
+<mj-raw>
+    <!--Top-Section-->
+    
+    </mj-raw>
+      <mj-section css-class="top-section" padding="20px 10px">
+        <mj-column width="100px">
+          <mj-image css-class="dickies-logo" padding="0" href="https://www.dickies.com/?utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128gw4953452487090176lw5469152884318208li0"
+           src="https://i.postimg.cc/wjxcLMLS/Dickies-logo.png" width="150px">
+        </mj-column>
+        <mj-column width="90px">
+          <mj-text css-class="men-section" font-size="14px" font-weight="bold" padding="20px 0 0 30px" text-decoration="none" color="#000">
+          <a href="https://www.dickies.com/mens-clothing?utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128gw4953452487090176lw5469152884318208li1"
+          target="_blank" style="text-decoration: none; color: #000;"><span class="men-section">Men</span></a></mj-text>
+        </mj-column>
+        <mj-column width="90px">
+          <mj-text css-class="men-section" font-size="14px" font-weight="bold" padding="20px 0 0"><a href="https://www.dickies.com/womens-clothing?utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128gw4953452487090176lw5469152884318208li2"
+          target="_blank" style="text-decoration: none; color: #000"><span class="men-section">Women</span></a></mj-text>
+        </mj-column>
+        <mj-column width="110px">
+          <mj-text css-class="men-section" font-size="14px" font-weight="bold" padding="20px 20px 0 0"><a href="https://www.dickies.com/accessories?utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0%3D&bc_lcid=t5097163374256128gw4953452487090176lw5469152884318208li3"
+          target="_blank" style="text-decoration: none; color: #000;"><span class="men-section">Accessories</span></a></mj-text>
+        </mj-column>
+        <mj-column width="110px">
+          <mj-text css-class="men-section" font-size="14px" font-weight="bold" padding="20px 0"><a href="https://www.dickies.com/new?utm_campaign=231206_us_product_fw23bauautorec_act_v1&utm_medium=email&utm_source=bluecore&obem=8_VZ4CgqM_oIbiH0ukLzIfHQ8lH8At7LNxR7lerMMa0&bc_lcid=t5097163374256128gw4953452487090176lw5469152884318208li4"
+          target="_blank" style="text-decoration: none; color: #000;"><span class="men-section">Collections</span></a></mj-text>
+        </mj-column>
+      </mj-seciton>
